@@ -67,5 +67,3 @@ Help used: **ChatGPT**, YouTube, official hardware documentation.
 
 ---
 
-## 🧾 License  
-MIT License  
